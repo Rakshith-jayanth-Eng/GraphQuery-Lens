@@ -1,0 +1,6 @@
+{
+  "name": "GraphQuery Lens",
+  "description": "Full-stack developer tool that converts system architectures, incident postmortems, and technical docs into interactive knowledge graphs and Neo4j Cypher statements with natural language query translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
